@@ -1,5 +1,7 @@
 
-# python sudoku.py input_file output_file
+# python sudoku.py input_file output_file 
+
+# for starting code, you should write to terminal thing above and look output file
 
 import sys
 import re
